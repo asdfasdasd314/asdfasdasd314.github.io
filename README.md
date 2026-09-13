@@ -61,7 +61,7 @@ The project is an AI coding environment that combines persistent codebase memory
 ### Example Generated Feature Network
 
 <p align="center">
-  <img src="PATH_TO_FEATURE_NETWORK_IMAGE" alt="Example network of generated feature files" width="800">
+  <img src="feature-files.png" alt="Example network of generated feature files" width="800">
 </p>
 
 <p align="center">
