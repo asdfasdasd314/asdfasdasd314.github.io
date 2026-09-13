@@ -2,16 +2,16 @@
 
 ## Projects
 
-- [AI Coding Environment](YOUR_REPOSITORY_LINK)
+- [AI Coding Environment](https://github.com/asdfasdasd314/daedalus)
   - Long-term memory, codebase understanding, and multi-agent orchestration for AI coding agents.
 
-- [Prediction Market Trading Bot](YOUR_REPOSITORY_LINK)
+- [Prediction Market Trading Bot](https://github.com/wumich15/wfinance)
   - Automated system for identifying and trading price discrepancies across prediction markets.
 
-- [Medley](YOUR_REPOSITORY_LINK)
+- [Medley](https://github.com/asdfasdasd314/medley)
   - Personalized music recommendation system that models both musical characteristics and a user's personal associations with songs.
 
-- [Music Chord Classifier](YOUR_REPOSITORY_LINK)
+- [Music Chord Classifier](https://github.com/asdfasdasd314/ear-trainer)
   - Program for classifying musical chords from audio in real time.
 
 ---
@@ -112,12 +112,12 @@ The final system monitors equivalent prediction markets across Kalshi and Polyma
 
 ## Medley
 
-[View Repository](YOUR_REPOSITORY_LINK)
+[View Repository](https://github.com/asdfasdasd314/medley)
 
 Medley is a personalized music recommendation system integrated with the Spotify API. It models both musical properties and personal associations with songs, allowing AI agents to reason about connections such as memories, people, places, moods, and experiences when recommending music.
 
 ## Music Chord Classifier
 
-[View Repository](YOUR_REPOSITORY_LINK)
+[View Repository](https://github.com/asdfasdasd314/ear-trainer)
 
-A PyTorch transformer neural network designed to classify musical chord symbols from audio in real time. The system uses Fourier transforms and audio-processing techniques to convert raw audio into a representation suitable for classification.
+A program designed to classify musical chord symbols from audio in real time. The system uses Fourier transforms and audio-processing techniques to convert raw audio into a representation suitable for classification.
