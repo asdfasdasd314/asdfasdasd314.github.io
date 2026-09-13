@@ -1,4 +1,3 @@
-```markdown
 # James Hollingsworth — Projects
 
 Computer Science student at the University of Michigan interested in AI systems, software engineering, and building useful products.
@@ -150,4 +149,3 @@ Medley is a personalized music recommendation system integrated with the Spotify
 [View Repository](YOUR_REPOSITORY_LINK)
 
 A PyTorch transformer neural network designed to classify musical chord symbols from audio in real time. The system uses Fourier transforms and audio-processing techniques to convert raw audio into a representation suitable for classification.
-```
