@@ -58,6 +58,8 @@ This does not consume significant token usage for the majority of cases since th
 
 The project is an AI coding environment that combines persistent codebase memory, structured feature representations, Git worktrees, and agent orchestration to provide coding agents with targeted context while allowing multiple agents to work in parallel. The resulting system is designed to reduce redundant token usage and prevent bugs caused by agents operating without sufficient knowledge of the surrounding codebase.
 
+I now code all of my personal projects with this app!
+
 ### Example Generated Feature Network
 
 <p align="center">
